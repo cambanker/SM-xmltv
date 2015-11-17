@@ -1,0 +1,195 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="0001" group-title="Canada" tvg-logo="CKCK CTV Regina.png",tvg-shift=-5,CKCK CTV Regina
+http://198.179.31.198/live/2056.high.stream/playlist.m3u8?id=0ad5aac39bb13fbed3cf0284d9bfafc1e8e772a6fa645a6fd408ef54fd450eaa4b7551a5df8f085eafc0eb716a7e994b52ce15a22c9c690bae213d41a3d3bd01de9dfa1ab426637fe27bfe8c5731c3bcfebb7dd8575bc750c16f8a87a38ece159a241542feaa2ffd4b06eda6ef066a4491becf8a3df737a7f24c52440ef259ec27f185bf1f085da2495472357ac0fa23d7324f9c92d0715c|Referer=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fckck-ctv-regina&User-Agent=Mozilla%2F5.0+%28compatible%2C+MSIE+11%2C+Windows+NT+6.3%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko
+
+#EXTINF:-1 tvg-id="0002" group-title="Canada" tvg-logo="CFRN CTV Edmonton.png",tvg-shift=-5,CFRN CTV Edmonton
+
+#EXTINF:-1 tvg-id="0003" group-title="Canada" tvg-logo="CFCN CTV Calgary.png",tvg-shift=-5,CFCN CTV Calgary
+http://198.179.31.198/live/2059.high.stream/playlist.m3u8?id=0ad5aac39bb13fbed77de37604f35da900eddb5cf988eeddf12a21792ee322d929bdd4bbf54d8393cb6ecebc90a7e35a7e0f8ac551e106b950494b61a71f6bf5c683bd87c113af759f848a622f30d58fc727a35b1d259cb3ef54cf8b4decff2775d2b0d55ac436de4ac25e59d3440c39227c6cb7ae363dab9a12f7b3086dc7d3035d191a2ce764ae2ab55a23cadb3b5c31b7e6f98916c6c9|Referer=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fcfcn-5-ctv-lethbridge&User-Agent=Mozilla%2F5.0+%28compatible%2C+MSIE+11%2C+Windows+NT+6.3%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko
+
+#EXTINF:-1 tvg-id="0004" group-title="Canada" tvg-logo="CICC CTV Yorkton.png",tvg-shift=-5,CICC CTV Yorkton
+http://198.179.31.198/live/2056.high.stream/playlist.m3u8?id=0ad5aac39bb13fbefd127417a3c493c5210ed8f56e7e8b936ff1548985e25fdba4a0fbc3e79918f832e137fbeca160ce9ba46107d60190b9119fd333e564812c23ef244b592088acd3ee4904ce4b11b88bc00f5b4d0fb1bee639222f65705a3b4bc6b531a999f3dc7fc16411d1406113cea088f6d609f638ea5a79a1e61fe406609033bd7acbb28ce091d7254d439342675d32be2c2c8caf|Referer=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Fckck-ctv-regina&User-Agent=Mozilla%2F5.0+%28compatible%2C+MSIE+11%2C+Windows+NT+6.3%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko
+
+#EXTINF:-1 tvg-id="0005" group-title="Canada" tvg-logo="CHCH Hamilton HD.png",tvg-shift=-5,CHCH Hamilton HD
+rtmp://54.85.197.21:1935/live/news live=1 timeout=15
+
+#EXTINF:-1 tvg-id="0006" group-title="Canada" tvg-logo="Global TV Halifax HD.png",tvg-shift=-5,Global TV Halifax HD
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd
+
+#EXTINF:-1 tvg-id="0007" group-title="Canada" tvg-logo="Global TV Toronto HD.png",tvg-shift=-5,Global TV Toronto HD
+http://link.theplatform.com/s/dtjsEC/hdSH3iztz_j_?feed=DEV%20Live%20Stream%20Feed
+
+#EXTINF:-1 tvg-id="0008" group-title="Canada" tvg-logo="Global TV Vancouver HD.png,tvg-shift=-5,Global TV Vancouver HD
+http://link.theplatform.com/s/dtjsEC/EqBPGYLY6fEx?feed=DEV%20Live%20Stream%20Feed
+
+#EXTINF:-1 tvg-id="0020" group-title="News" tvg-logo="CTV News HD.png",tvg-shift=-5,CTV News HD
+http://66.51.129.171:8080/demo/index.m3u8
+
+#EXTINF:-1 tvg-id="0021" group-title="News" tvg-logo="CNN.png",CNN
+rtmp://d.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://www.newsviews.tv/player.swf live=1 pageUrl=http://www.newsviews.tv/news-views-video-six?b?b*t$
+
+#EXTINF:-1 tvg-id="0022" group-title="News" tvg-logo="FOX News.png",FOX News
+http://50.7.136.90:81/live/cambanker88@yahoo.ca/mastercam/109.ts
+
+#EXTINF:-1 tvg-id="0023" group-title="News" tvg-logo="CNBC.png",CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+
+#EXTINF:-1 tvg-id="0024" group-title="News" tvg-logo="MSNBC.png",MSNBC
+rtmp://d.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/politics/?b?b*t$
+
+#EXTINF:-1 tvg-id="0040" group-title="Sports" tvg-logo="The Golf Channel.png",The Golf Channel
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="0041" group-title="Sports" tvg-logo="Poker Central.png",Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8?
+
+#EXTINF:-1 tvg-id="0042" group-title="Sports" tvg-logo="TSN 1.png",TSN 1
+http://50.7.136.90:81/live/cambanker88@yahoo.ca/mastercam/83.ts
+
+#EXTINF:-1 tvg-id="0043" group-title="Sports" tvg-logo="TSN 2.png",TSN 2
+http://50.7.136.90:81/live/cambanker88@yahoo.ca/mastercam/84.ts
+
+#EXTINF:-1 tvg-id="0044" group-title="Sports" tvg-logo="SportsNet East.png",SportsNet East
+rtmp://31.220.2.149:80/live playpath=ontario swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://yotv.co/embedu.php?live=ontario&vw;=620&vh;=490 token=%Zrey(nKa@#Z
+
+#EXTINF:-1 tvg-id="0045" group-title="Sports" tvg-logo="SportsNet World.png",SportsNet World
+rtmp://31.220.2.149:80/live playpath=world swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=world&vw;=620&vh;=490 token=%Zrey(nKa@#Z
+
+#EXTINF:-1 tvg-id="0046" group-title="Sports" tvg-logo="ESPN US.png",ESPN US
+http://foro:cable@24.139.177.135:9981/stream/channelid/840655812?ticket=EC0D4345061565F41CA645FA251F98AEEBC5D655&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0047" group-title="Sports" tvg-logo="ESPN 2 US.png",ESPN 2 US
+http://foro:cable@24.139.177.135:9981/stream/channelid/254416826?ticket=7C6DAA5C9259DEC9D5692533D1714D3DE4316187&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0048" group-title="Sports" tvg-logo="Fox Sports 1.png",Fox Sports 1
+http://foro:cable@24.139.177.135:9981/stream/channelid/700490170?ticket=C24EBD6A523450F567A9436019A038FA615BE425&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0049" group-title="Sports" tvg-logo="Fox Sports 2.png",Fox Sports 2
+http://50.7.136.90:81/live/cambanker88@yahoo.ca/mastercam/1206.ts
+
+#EXTINF:-1 tvg-id="0024" group-title="Network TV" tvg-logo="ABC.png",ABC
+rtmp://37.48.83.6:1935/goLive/?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE1IDU6NDQ6NTMgQU0maGFzaF92YWx1ZT15ZFpLdlVxV0F4V0p2Um1Zc2FjU0pnPT0mdmFsaWRtaW51dGVzPTU=/rGCi7bg0Qxvs8q7Sl13l pageUrl=http://zerocast.tv/embed.php?a=1&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+
+#EXTINF:-1 tvg-id="0060" group-title="Network TV" tvg-logo="CBS.png",CBS
+rtmp://37.48.83.6:1935/goLive/?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE1IDU6NDM6MTAgQU0maGFzaF92YWx1ZT1pTVhIYWdCM0R6VHF3SlBNUEdqTXVnPT0mdmFsaWRtaW51dGVzPTU=/Ger61uLQ4fedzvjRjrB7 pageUrl=http://zerocast.tv/embed.php?a=338&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+
+#EXTINF:-1 tvg-id="0061" group-title="Network TV" tvg-logo="NBC.png",NBC
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_czV3aHczN25sN3dlZWRwfDE0NDcwNDc2ODl8NTAuMTAwLjg1LjUyfDU2M2VlMDg5ZjJlMjh8NTRlNjgxMjA1MzRkNDZhNTE4YzA5Nzg2YzFmZjJiZDk3ZGM3MzA1NQ.. app=edge/_definst_/?xs=_we_czV3aHczN25sN3dlZWRwfDE0NDcwNDc2ODl8NTAuMTAwLjg1LjUyfDU2M2VlMDg5ZjJlMjh8NTRlNjgxMjA1MzRkNDZhNTE4YzA5Nzg2YzFmZjJiZDk3ZGM3MzA1NQ.. playpath=s5whw37nl7weedp swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf flashver=WIN/2018,0,0,232 live=1 timeout=15 token=eac0e760127010f926d5b385bc769d3e swfVfy=1 pageUrl=http://www.streamlive.to/embedplayer_new.php
+
+#EXTINF:-1 tvg-id="0062" group-title="Network TV" tvg-logo="FOX.png",FOX
+rtmp://37.48.83.6:1935/goLive/?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE1IDU6NDE6NTUgQU0maGFzaF92YWx1ZT02MTdvTEZ6VE9pUGk4VVpaNTM0N1d3PT0mdmFsaWRtaW51dGVzPTU=/9pxGCtP3aEnJYgoBFFH8 pageUrl=http://zerocast.tv/embed.php?a=305&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+
+#EXTINF:-1 tvg-id="0063" group-title="Network TV" tvg-logo="PBS.png",PBS
+rtmp://lv9.ustvnow.com:1935/dvrtest?key=CAMBANKE7481C4E87C50E347E87EC9D2E841E759070/mp4:4ABA5WPSUUSTVNOW1
+
+#EXTINF:-1 tvg-id="0064" group-title="Network TV" tvg-logo="The CW.png",The CW
+rtmp://watch4.streamlive.to:1935/edge/_definst_/?xs=_we_ZnZrc3Uxc3A1MWlqdHlkfDE0NDcwNDcwNjF8NTAuMTAwLjg1LjUyfDU2M2VkZTE1YjQ0Y2J8NzQxMTA4ZjM3Y2E0MjU3YzAxZmU1MWUwMzBlNWE5NzAyNDk0ZWNiNQ.. app=edge/_definst_/?xs=_we_ZnZrc3Uxc3A1MWlqdHlkfDE0NDcwNDcwNjF8NTAuMTAwLjg1LjUyfDU2M2VkZTE1YjQ0Y2J8NzQxMTA4ZjM3Y2E0MjU3YzAxZmU1MWUwMzBlNWE5NzAyNDk0ZWNiNQ.. playpath=fvksu1sp51ijtyd swfUrl=http://www.streamlive.to/ads/embed/player_ilive_embed.swf flashver=WIN/2018,0,0,232 live=1 timeout=15 token=eac0e760127010f926d5b385bc769d3e swfVfy=1 pageUrl=http://www.streamlive.to/embedplayer_new.php
+
+#EXTINF:-1 tvg-id="0080" group-title="Kids TV" tvg-logo="Disney Channel.png",Disney Channel
+http://foro:cable@24.139.177.135:9981/stream/channelid/209291716?ticket=72BC4C96436A7F4D686AB3E974ABADF6A0283A16&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0081" group-title="Kids TV" tvg-logo="Disney XD.png",Disney XD
+http://31.220.41.107:80/LiveEdge/DisneyXDUS/chunklist_w821794807_b1000000.m3u8?token=dd32773abca8e77ea2488cccea7d1bc7
+
+#EXTINF:-1 tvg-id="0082" group-title="Kids TV" tvg-logo="Disney Junior.png",Disney Junior
+http://31.220.41.102:80/LiveEdge/DisneyJrUS/chunklist_w739356806_b1000000.m3u8?token=cf86dc1de2d4595e604304949fe8e9b2
+
+#EXTINF:-1 tvg-id="0083" group-title="Kids TV" tvg-logo="ABC Family.png",ABC Family
+rtmp://37.48.83.6:1935/goLive/?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDE1IDY6MzE6MzMgQU0maGFzaF92YWx1ZT1kYlVkSjN6cmJBNHpReTlmTnJHM1pBPT0mdmFsaWRtaW51dGVzPTU=/abcfam pageUrl=http://zerocast.tv/embed.php?a=1852&id=&width=640&height=480&autostart=true&strech=exactfit live=1 timeout=20
+
+#EXTINF:-1 tvg-id="0084" group-title="Kids TV" tvg-logo="Cartoon Network UK.png",Cartoon Network UK
+http://91.205.164.201:8181/udp/239.1.5.10:1234
+
+#EXTINF:-1 tvg-id="0085" group-title="Kids TV" tvg-logo="Nickelodeon.png",Nickelodeon
+http://foro:cable@24.139.177.135:9981/stream/channelid/210091339?ticket=83C6989D76398E0CA94C0C29DE12D08221E2C862&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0086" group-title="Kids TV" tvg-logo="Nick Jr.png",Nick Jr
+http://31.220.41.103:80/LiveEdge/NickJrUS/chunklist_w1260169162_b1000000.m3u8?token=04214a53248dbc3d6633974732bb1e6d
+
+#EXTINF:-1 tvg-id="0086" group-title="Kids TV" tvg-logo="TeenNick.png",TeenNick
+http://foro:cable@24.139.177.135:9981/stream/channelid/1524416225?ticket=6F6E2125B4BBF15462EBB8EEBFC5610BFE7D3CD5&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0100" group-title="Lifestyle TV" tvg-logo="Comedy Central.png",Comedy Central
+http://foro:cable@24.139.177.135:9981/stream/channelid/123429173?ticket=C179925E963A467B7B307DED663B0C19FE258F4E&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0101" group-title="Lifestyle TV" tvg-logo="A and E.png",A and E
+http://foro:cable@24.139.177.135:9981/stream/channelid/1270500528?ticket=8BBAC33A4C57E6FAE5FA50BB641E441599011112&profile=pass&amp;mode=12
+
+#EXTINF:-1 tvg-id="0102" group-title="Lifestyle TV" tvg-logo="HGTV.png",HGTV
+http://50.7.136.90:81/live/cambanker88@yahoo.ca/mastercam/1292.ts
+
+#EXTINF:-1 tvg-id="0103" group-title="Lifestyle TV" tvg-logo="Food Network.png",Food Network
+rtmp://a.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/world/ swfVfy=1 live=1  timeout=15
+
+#EXTINF:-1 tvg-id="0104" group-title="Lifestyle TV" tvg-logo="TLC UK.png",TLC UK
+http://foro:cable@24.139.177.135:9981/stream/channelid/748257084?ticket=B119041CA6921095D620F807A20EA30CB3EE0EEF&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0105" group-title="Lifestyle TV" tvg-logo="Lifetime.png",Lifetime
+http://foro:cable@24.139.177.135:9981/stream/channelid/1595902520?ticket=709DCA623C56E5322399F2C84B394414EF1F31F3&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0106" group-title="Lifestyle TV" tvg-logo="DIY.png",DIY
+http://foro:cable@24.139.177.135:9981/stream/channelid/499998545?ticket=EBEA6747C07DC0FAEA72B635D3721EFEE2AD9CE8&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0107" group-title="Lifestyle TV" tvg-logo="Travel Channel UK.png",Travel Channel UK
+http://204.107.27.250/live/842.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe9acb484333d8f1430b8a0c4bc3652f533bbe300f812fc633a56b6f9149b5ec9c7777c8311469f1014e13a529d139d910f03aec79d9316596d50bfeb7be0a070236e7426453817e6ee52b5238cdfd05cfcce3bda18eb1664d1ca812368891b54554a7d08a73068aa0e26f8cbdcade3939517183e2ab849a480267ced0746ba5d4382625995bba70361a1895f4dfc049ee|Referer=http%3A%2F%2Fwww.filmon.com%2Fchannel%2Ftravel-channel1&User-Agent=Mozilla%2F5.0+%28compatible%2C+MSIE+11%2C+Windows+NT+6.3%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko
+
+#EXTINF:-1 tvg-id="0108" group-title="Lifestyle TV" tvg-logo="Animal Planet.png",Animal Planet
+http://foro:cable@24.139.177.135:9981/stream/channelid/1196125252?ticket=6EFBD35EBA3243EB36ED3C50D71669D198866BFD&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0109" group-title="Lifestyle TV" tvg-logo="ID.png",ID
+http://foro:cable@24.139.177.135:9981/stream/channelid/778962059?ticket=20991006E4622390E3E04B153CAFD8A2E2DC94A3&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0110" group-title="Lifestyle TV" tvg-logo="Discovery Channel.png",Discovery Channel
+http://31.220.40.108:80/LiveEdge/DiscoveryChannelUSAHD/chunklist_w425999938_b1000000.m3u8?token=11f4497c99d82467324f33cb38705c32
+
+#EXTINF:-1 tvg-id="0111" group-title="Lifestyle TV" tvg-logo="History.png",History
+http://foro:cable@24.139.177.135:9981/stream/channelid/881322161?ticket=86F1B7D47946046A6D89377707E88EB8F2D24B6A&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0112" group-title="Lifestyle TV" tvg-logo="National Geographic.png",National Geographic
+http://foro:cable@24.139.177.135:9981/stream/channelid/631184809?ticket=3CA22721C0FC7CAC0A94990FC8CAC77A372C9DB6&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0140" group-title="Cable TV" tvg-logo="AMC.png",AMC
+http://50.7.136.90:81/live/cambanker88@yahoo.ca/mastercam/1233.ts
+
+#EXTINF:-1 tvg-id="0141" group-title="Cable TV" tvg-logo="Bravo.png",Bravo
+http://31.220.40.114:80/LiveEdge/BravoEastUS/chunklist_w785980704_b1000000.m3u8?token=a7d323610a696b35c42bd0952cfc2aba
+
+#EXTINF:-1 tvg-id="0142" group-title="Cable TV" tvg-logo="FX.png",FX
+http://foro:cable@24.139.177.135:9981/stream/channelid/103056787?ticket=B3834FE96010483469BDAB0C49B08A13CD64BBAA&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0143" group-title="Cable TV" tvg-logo="FXX.png",FXX
+http://foro:cable@24.139.177.135:9981/stream/channelid/192849269?ticket=8FF84DE3C9F02F5B61FAB3BF3256413BFE177225&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0144" group-title="Cable TV" tvg-logo="HBO.png",HBO
+http://foro:cable@24.139.177.135:9981/stream/channelid/2057251955?ticket=C9A7E38A75E0820E97BD1A23F12BA2E7833986E3&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0145" group-title="Cable TV" tvg-logo="HBO 2.png",HBO 2
+http://foro:cable@24.139.177.135:9981/stream/channelid/2107822582?ticket=D61C9558A2AFF25207E81CC45FE67E8678FF9545&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0146" group-title="Cable TV" tvg-logo="Showtime East.png",Showtime East
+http://31.220.41.102:80/LiveEdge/ShowtimeEastHD/chunklist_w461153707_b1000000.m3u8?token=62a9b1a86d9313d9cd0b90594dc4b9d4
+
+#EXTINF:-1 tvg-id="0147" group-title="Cable TV" tvg-logo="Showtime West.png",Showtime West
+http://31.220.40.117:80/LiveEdge/ShowtimeWestUS/chunklist_w1773865759_b1000000.m3u8?token=0b761a07e3971f8e3eb4011e3ec17601
+
+#EXTINF:-1 tvg-id="0148" group-title="Cable TV" tvg-logo="Spike TV.png",Spike TV
+http://31.220.40.114:80/LiveEdge/SpikeUS/chunklist_w106306855_b1000000.m3u8?token=c7e49523864b61693052a87e0f87657b
+
+#EXTINF:-1 tvg-id="0149" group-title="Cable TV" tvg-logo="Syfy.png",Syfy
+http://31.220.40.121:80/LiveEdge/SyFyLASD/chunklist_w1612769737_b1000000.m3u8?token=c59c7e191e3d47173ed20545637169a7
+
+#EXTINF:-1 tvg-id="0150" group-title="Cable TV" tvg-logo="TBS.png",TBS
+http://foro:cable@24.139.177.135:9981/stream/channelid/471425523?ticket=F5395E0419A07E1E1528736285A1344F6C3C7B83&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0151" group-title="Cable TV" tvg-logo="TNT.png",TNT
+http://foro:cable@24.139.177.135:9981/stream/channelid/1209535514?ticket=5C91471ABF043E523848CA6FB27195AA355329F6&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0152" group-title="Cable TV" tvg-logo="truTV.png",truTV
+http://foro:cable@24.139.177.135:9981/stream/channelid/358371636?ticket=7462F8B5129A777553EBCD995EB73B4240D4F644&profile=pass&mode=12
+
+#EXTINF:-1 tvg-id="0153" group-title="Cable TV" tvg-logo="USA Network.png",USA Network
+http://foro:cable@24.139.177.135:9981/stream/channelid/1513260922?ticket=2FB54276DB6CFF93BDA1C49EFF24A1D969FADC86&profile=pass&mode=12
+
+
+
